@@ -1,0 +1,14 @@
+D:\Learning languages\С#\Sana02\SwitchValues\obj\Debug\net7.0\SwitchValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning languages\С#\Sana02\SwitchValues\obj\Debug\net7.0\SwitchValues.AssemblyInfoInputs.cache
+D:\Learning languages\С#\Sana02\SwitchValues\obj\Debug\net7.0\SwitchValues.AssemblyInfo.cs
+D:\Learning languages\С#\Sana02\SwitchValues\obj\Debug\net7.0\SwitchValues.csproj.CoreCompileInputs.cache
+D:\Learning languages\С#\Sana02\SwitchValues\bin\Debug\net7.0\SwitchValues.exe
+D:\Learning languages\С#\Sana02\SwitchValues\bin\Debug\net7.0\SwitchValues.deps.json
+D:\Learning languages\С#\Sana02\SwitchValues\bin\Debug\net7.0\SwitchValues.runtimeconfig.json
+D:\Learning languages\С#\Sana02\SwitchValues\bin\Debug\net7.0\SwitchValues.dll
+D:\Learning languages\С#\Sana02\SwitchValues\bin\Debug\net7.0\SwitchValues.pdb
+D:\Learning languages\С#\Sana02\SwitchValues\obj\Debug\net7.0\SwitchValues.dll
+D:\Learning languages\С#\Sana02\SwitchValues\obj\Debug\net7.0\refint\SwitchValues.dll
+D:\Learning languages\С#\Sana02\SwitchValues\obj\Debug\net7.0\SwitchValues.pdb
+D:\Learning languages\С#\Sana02\SwitchValues\obj\Debug\net7.0\SwitchValues.genruntimeconfig.cache
+D:\Learning languages\С#\Sana02\SwitchValues\obj\Debug\net7.0\ref\SwitchValues.dll
