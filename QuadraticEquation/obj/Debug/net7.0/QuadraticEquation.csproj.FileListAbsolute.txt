@@ -1,0 +1,14 @@
+D:\Learning languages\С#\Sana02\QuadraticEquation\bin\Debug\net7.0\QuadraticEquation.exe
+D:\Learning languages\С#\Sana02\QuadraticEquation\bin\Debug\net7.0\QuadraticEquation.deps.json
+D:\Learning languages\С#\Sana02\QuadraticEquation\bin\Debug\net7.0\QuadraticEquation.runtimeconfig.json
+D:\Learning languages\С#\Sana02\QuadraticEquation\bin\Debug\net7.0\QuadraticEquation.dll
+D:\Learning languages\С#\Sana02\QuadraticEquation\bin\Debug\net7.0\QuadraticEquation.pdb
+D:\Learning languages\С#\Sana02\QuadraticEquation\obj\Debug\net7.0\QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning languages\С#\Sana02\QuadraticEquation\obj\Debug\net7.0\QuadraticEquation.AssemblyInfoInputs.cache
+D:\Learning languages\С#\Sana02\QuadraticEquation\obj\Debug\net7.0\QuadraticEquation.AssemblyInfo.cs
+D:\Learning languages\С#\Sana02\QuadraticEquation\obj\Debug\net7.0\QuadraticEquation.csproj.CoreCompileInputs.cache
+D:\Learning languages\С#\Sana02\QuadraticEquation\obj\Debug\net7.0\QuadraticEquation.dll
+D:\Learning languages\С#\Sana02\QuadraticEquation\obj\Debug\net7.0\refint\QuadraticEquation.dll
+D:\Learning languages\С#\Sana02\QuadraticEquation\obj\Debug\net7.0\QuadraticEquation.pdb
+D:\Learning languages\С#\Sana02\QuadraticEquation\obj\Debug\net7.0\QuadraticEquation.genruntimeconfig.cache
+D:\Learning languages\С#\Sana02\QuadraticEquation\obj\Debug\net7.0\ref\QuadraticEquation.dll
