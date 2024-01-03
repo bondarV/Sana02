@@ -14,7 +14,9 @@ internal class Program
         do
         {
             checkNumber = int.TryParse(Console.ReadLine(), out n);
-            if (!checkNumber) Console.WriteLine("Введіть число"); } while (!checkNumber);
+            if (!checkNumber) Console.WriteLine("Введіть число");
+        }
+        while (!checkNumber);
         a = calculation_value_a(n);
         b = calculation_value_b(n);
         c = calculation_value_c(n);
@@ -40,10 +42,14 @@ internal class Program
     }
     static double calculation_value_c(int number)
     {
-        double c = 1;
-        for (int n = 1; n <= number; n++)
+        int c = 0;
+        int sum = 1;
+        for (int i = 1; i <= number; i++)
         {
-            c *= n;
+            for (int j = 1; j <= i; j++)
+            sum *= j;
+            c += sum;
+            sum = 1;
         }
         return c;
     }
